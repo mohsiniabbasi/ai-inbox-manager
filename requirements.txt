@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2
+# Optional — enable live Claude triage (set ANTHROPIC_API_KEY):
+# anthropic>=0.40
